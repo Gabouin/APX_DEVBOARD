@@ -53,7 +53,7 @@ A STM32 based devboard with an integrated IMU and 14 GPIO pins.
 - **USB-C input**
 - **Amiri silkscreen** for a professional look
 - **Original edge cut** to look cool lol
-- **Small size** of 3.7*3.9 cm
+- **Small size** of 2.3*3.7 cm
 
 ## Repository Structure
 
