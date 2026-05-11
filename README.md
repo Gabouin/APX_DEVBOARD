@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-A STM32 based devboard with an integrated IMU and 14 GPIO pins.
+A STM32 based devboard with Buttons, a LED and 8 GPIO pins.
 </h4>
 
 <div align="center">
@@ -41,7 +41,7 @@ A STM32 based devboard with an integrated IMU and 14 GPIO pins.
 
 ## About the Project
 
-**APX DEVBOARD** is a STM32 based devboard designed with an integrated IMU, GPIO pins, buttons and an LED
+**APX DEVBOARD** is a STM32 based devboard designed with GPIO pins, buttons and an LED
 
 ### Features
 
