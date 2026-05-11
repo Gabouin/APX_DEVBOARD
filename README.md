@@ -16,7 +16,7 @@ A STM32 based devboard with Buttons, a LED and 8 GPIO pins.
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
 ![Series](https://img.shields.io/badge/Series-APX-red.svg)
-![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A2SJ7B739/APX%20Devboard)
+![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A2SJ7B739/RESOLUTION%20DEVBOARD)
 
 </div>
 
@@ -27,7 +27,6 @@ A STM32 based devboard with Buttons, a LED and 8 GPIO pins.
   <a href="#pcb-on-kicad">PCB</a> •
   <a href="#bill-of-materials">BOM</a> •
   <a href="#license">License</a> •
-  <a href="#contributing">Contributing</a> •
   <a href="#credits">Credits</a>
 </p>
 
@@ -91,6 +90,11 @@ Source : `src/KiCad/pcb/`
 
 
 > The PCB design is made on only 2 layers, to reduce the cost of the board !
+<br>
+
+## KiCanvas
+
+go check out the project on [KiCanva](https://kicanvas.org/?github=https://github.com/Gabouin/APX_DEVBOARD/blob/main/src/APX%20Devboard.kicad_pcb) !
 <br>
 
 ## Bill of Materials
