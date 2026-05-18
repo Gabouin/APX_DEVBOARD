@@ -25,6 +25,7 @@ A STM32 based devboard with Buttons, a LED and 8 GPIO pins.
   <a href="#repository-structure">Structure</a> •
   <a href="#schematic-on-kicad">Schematic</a> •
   <a href="#pcb-on-kicad">PCB</a> •
+  <a href="#CAD">CAD</a> •
   <a href="#bill-of-materials">BOM</a> •
   <a href="#license">License</a> •
   <a href="#credits">Credits</a>
@@ -56,8 +57,8 @@ A STM32 based devboard with Buttons, a LED and 8 GPIO pins.
 
 ## Repository Structure
 
-- `src/` — KiCad project sources
-- `production/` — PCB fabrication files (Gerbers, BOM, Pick & Place)
+- `src/` — KiCad and Fusion360 project sources
+- `production/` — PCB and CAD fabrication files (Gerbers, BOM, Pick & Place, 3mf)
 - `images/` — images used in the README and documentation
 
 ## Schematic on KiCad
@@ -70,7 +71,7 @@ Source : `src/schem`
 
 ## PCB on KiCad
 
-Source : `src/KiCad/pcb/`  
+Source : `src/pcb/`  
 
 <div align="center">
   <table>
@@ -89,13 +90,32 @@ Source : `src/KiCad/pcb/`
 </div>  
 
 
-> The PCB design is made on only 2 layers, to reduce the cost of the board !
+> The PCB design is made on only 2 layers, to reduce the cost of the board !  
+
 <br>
 
 ## KiCanvas
 
 go check out the project on [KiCanva](https://kicanvas.org/?github=https://github.com/Gabouin/APX_DEVBOARD/blob/main/src/APX%20Devboard.kicad_pcb) !
+
 <br>
+
+## CAD
+
+Source : `src/CAD` and
+         `production/CAD`
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="bottom"><img width="547" height="565" alt="Capture d&#39;écran 2026-05-19 003227" src="https://github.com/user-attachments/assets/0351fa97-3902-4bd5-ae9c-1e3e2e8a36cc" /></td>
+      <td><img width="602" height="515" alt="Capture d&#39;écran 2026-05-19 003627" src="https://github.com/user-attachments/assets/5d442b80-dcd1-4693-8da4-0410cd78a075" /></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 
 ## Bill of Materials
 
@@ -152,7 +172,7 @@ This project uses:
 - **JLCPCB** - PCB manufacturing
 - **LCSC** - Parts order
 - **Figma** - Silkscreen and banner design
-- **Fusion 360** - CAD render
+- **Fusion 360** - CAD
 - **[@NotARoomba](https://github.com/notaroomba)** - Readme template
 
 
