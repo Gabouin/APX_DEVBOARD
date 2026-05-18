@@ -94,9 +94,11 @@ Source : `src/pcb/`
 
 <br>
 
-## KiCanvas
+## Share Links
 
-go check out the project on [KiCanva](https://kicanvas.org/?github=https://github.com/Gabouin/APX_DEVBOARD/blob/main/src/APX%20Devboard.kicad_pcb) !
+go check out the pcb on [KiCanva](https://kicanvas.org/?github=https://github.com/Gabouin/APX_DEVBOARD/blob/main/src/APX%20Devboard.kicad_pcb) !
+<br>
+go check out the case on [Fusion360](https://a360.co/4uNEBf6) !
 
 <br>
 
