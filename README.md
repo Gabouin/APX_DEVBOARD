@@ -116,6 +116,8 @@ Source : `src/CAD` and
   </table>
 </div>
 
+> The case use snap fits as there is no mounting hole in the PCB.
+
 <br>
 
 
